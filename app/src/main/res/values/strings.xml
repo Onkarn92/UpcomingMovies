@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Upcoming Movies</string>
+    <string name="information">Information</string>
+    <string name="movie_thumbnail">Movie Thumbnail</string>
+    <string name="ua">(U/A)</string>
+    <string name="adult">(A)</string>
+    <string name="developed_by">Developed by \n Onkar Nene</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="authentication_error">User authentication failed</string>
+    <string name="service_fail">Something went wrong, Please try again later!</string>
+    <string name="ok">OK</string>
+    <string name="no_movies">No movies to load…</string>
+</resources>

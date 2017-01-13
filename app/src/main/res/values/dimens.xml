@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="value_5">5dp</dimen>
+    <dimen name="value_1">1dp</dimen>
+    <dimen name="value_8">8dp</dimen>
+    <dimen name="value_10">10dp</dimen>
+    <dimen name="value_30">30dp</dimen>
+    <dimen name="thumbnail_size">80dp</dimen>
+    <dimen name="ic_next_size">40dp</dimen>
+    <dimen name="view_pager_height">350dp</dimen>
+    <dimen name="circle_indicator_height">35dp</dimen>
+
+    <dimen name="movie_title_size">18sp</dimen>
+    <dimen name="information_text_size">28sp</dimen>
+</resources>
